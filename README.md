@@ -5,7 +5,7 @@ This repository contains an **End-to-End Machine Learning Pipeline** designed to
 
 ### ⚠️ Disclaimer:
 This project is a demonstration of technical skills in Python and Machine Learning. All datasets used in this repository are synthetic/mock data created for educational purposes. No proprietary or confidential data from any organization (including NTUC or AI Singapore) was used or exposed in this project.
-**
+
 
 To ensure this repository is fully functional for reviewers and developers, I have included a **Synthetic Data Generator (`datagen.py`)**.
 * **What it does:** Generates 5 years of realistic daily sales data (2015–2020) with injected seasonality, trends, and noise.
